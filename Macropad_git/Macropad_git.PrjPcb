@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XPNSLBBC
 
 [Document3]
+DocumentPath=..\..\..\Documents\AltiumLL\SamacSys.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NGLTGAHM
+
+[Document4]
 DocumentPath=MacroPad_schematicsLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHOFZNQH
 
-[Document4]
+[Document5]
 DocumentPath=LedPot.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPUOGEJA
 
-[Document5]
+[Document6]
 DocumentPath=keys.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABHFNRSF
 
-[Document6]
+[Document7]
+DocumentPath=..\..\..\Documents\AltiumLL\SamacSys.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPRJBCLL
+
+[Document8]
 DocumentPath=MacroPad_PcbLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YPPUMLOJ
 
-[Document7]
+[Document9]
 DocumentPath=Sliders.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AORBSAQZ
 
-[Document8]
+[Document10]
 DocumentPath=Macropad_git.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document11]
 DocumentPath=Macropad_git1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
