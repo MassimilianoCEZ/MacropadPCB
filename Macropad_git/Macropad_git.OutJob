@@ -2,15 +2,15 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Maxfe\Desktop\.PDF
+OutputFilePath2=C:\Users\Maxfe\OneDrive\Desktop\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\Maxfe\Desktop\
+OutputBasePath2=C:\Users\Maxfe\OneDrive\Desktop\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=macroPadFerrulliMassimiliano.pdf
+OutputFileName2=MacroPadTest.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Maxfe\Desktop\.PDF
+RelativeOutputPath2=C:\Users\Maxfe\OneDrive\Desktop\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
