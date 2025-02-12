@@ -67,23 +67,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VBGUFASD
 
 [Document2]
-DocumentPath=..\..\..\Documenti\AltiumLL\SamacSys.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JQXZPCWY
-
-[Document3]
 DocumentPath=MacroPad_schematicsLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHOFZNQH
 
-[Document4]
+[Document3]
 DocumentPath=LedPot.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPUOGEJA
 
-[Document5]
+[Document4]
 DocumentPath=keys.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABHFNRSF
 
-[Document6]
+[Document5]
 DocumentPath=MacroPad_PcbLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,24 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YPPUMLOJ
 
-[Document7]
-DocumentPath=..\..\..\Documenti\AltiumLL\SamacSys.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SYKPCNAA
-
-[Document8]
+[Document6]
 DocumentPath=MacroPadPcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJYWHWYT
 
-[Document9]
+[Document7]
 DocumentPath=Sliders.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AORBSAQZ
 
-[Document10]
+[Document8]
 DocumentPath=Macropad_git.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=Macropad_git1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
